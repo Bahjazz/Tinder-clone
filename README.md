@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![Screenshot 2023-10-20 at 15 49 58](https://github.com/Bahjazz/tinder-clone/assets/33488207/b166a059-725f-4751-84d6-dfb13b84f16e)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
